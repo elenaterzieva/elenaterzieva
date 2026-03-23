@@ -1,11 +1,10 @@
 baseURL = "https://elenaterzieva.github.io/elenaterzieva/"
 languageCode = "en-us"
-title = "My Blog"
+title = "Ellie's Log"
 theme = "paper"
 
 [params]
   color = "linen"
   github = "YOUR_GITHUB_USERNAME"
-  avatar = "https://github.com/elenaterzieva.png"
   name = "Ellie's Log"
   bio = "Ellie's Log"
